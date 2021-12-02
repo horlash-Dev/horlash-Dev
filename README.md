@@ -5,7 +5,7 @@
 horlash-Dev/horlash-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Hi my name abdulqawiyyi abiodun and am a web developer with more than 2 years of experience in designing and developing dynamic websites.
+## Hi my name abdulqawiyyi abiodun, a web developer with more than 2 years of experience in designing and developing dynamic websites.
 Being an experienced web developer.
  I designed and developed highly functional, reliable,and easy-to-use and User friendly web applications 
 
