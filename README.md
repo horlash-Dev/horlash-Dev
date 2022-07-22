@@ -1,22 +1,21 @@
 - 👋 Hi, I’m @horlash-Dev
-- 👀 I’m interested in ... Web & Mobile development
-- 📫 How to reach me ... Contact on my mail cube6029@gmail.com
+- 📫 How to reach me ... Contact me via https://linktr.ee/abdulqawiyyi
 <!---
 horlash-Dev/horlash-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-## Hi my name abdulqawiyyi abiodun, a web developer with more than 2 years of experience in designing and developing dynamic websites.
-Being an experienced web developer.
- I designed and developed highly functional, reliable,and easy-to-use and User friendly web applications 
+---> 
+## I am a web developer with more than 3 years of experience designing and developing dynamic websites. I can help bring to reality your creativity
+ by developing/designing highly functional, reliable,and easy-to-use and User friendly web applications
 
-## I major in the fields listed below.
-
-•✅ Web Design 
+## Technical Skills
+•✅ Web Design/Development
 •✅ Backend development
-•✅  web development
+•✅ mobile application development
 •✅ frontend development
- 
- ## * Skills and Experiences * 
+•✅ IDE & Tools
+•✅ Problem solving
+
+## * Skills and Experiences * 
  
   **Web Design -> HTML, CSS, Bootstrap, TailwindCSS, SCSS, Material UI, javascript, jquery
   
@@ -24,8 +23,10 @@ Being an experienced web developer.
  Vue js 
  
 ##  ** Server and Backend skills
-   PHP (Laravel, CodeIgniter) 
+   PHP (Laravel, CodeIgniter)
+   Node js
+   ## CMS
+   Wordpress website development.
    
-  ## **Wordpress website development.
-   
-  ** Google firebase
+  others 
+  Google firebase
